@@ -13,7 +13,7 @@ A Simple Swagger api can be used as a template to start with Open API & Swagger 
 ```bash
 python -m pip install Flask==2.2.2
 python -m pip install "connexion[swagger-ui]==2.14.1"
-python swagger.py
+python swagg_api.py
 ```
 
 ## Technologies Used
