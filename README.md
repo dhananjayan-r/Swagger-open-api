@@ -1,5 +1,4 @@
 # SWAGGER API
-Tags supplementary links and labels with multiple attributes like Title , Id , Rule-Id in a HTML content.
 ## Table of Content
   * [Overview](#overview)
   * [Installation And Run](#installation-and-run)
