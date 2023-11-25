@@ -25,11 +25,11 @@ Access the editor ==> http://127.0.0.1:8080/api/ui/
 
 ## References
 - swagger editor link to be shown:
-  https://editor.swagger.io/
+  * https://editor.swagger.io/
 
 - Benefits of using open APi :
-  https://www.moesif.com/blog/technical/api-design/Benefits-of-using-the-OpenAPI-Swagger-specification-for-your-API/
-  https://realpython.com/flask-connexion-rest-api/
-  https://www.youtube.com/watch?v=7LQrTQTS_R0&list=LLsA2r2t7zwJW8IgmayiGjow
-  https://medium.com/@thomasoropeza/creating-a-rest-api-server-with-swagger-f90cdb84f270#:~:text=Creating%20the%20Swagger%20Specification,your%20specification%20in%20Swagger's%20editor.
-  https://editor.swagger.io/
+  * https://www.moesif.com/blog/technical/api-design/Benefits-of-using-the-OpenAPI-Swagger-specification-for-your-API/
+  * https://realpython.com/flask-connexion-rest-api/
+  * https://www.youtube.com/watch?v=7LQrTQTS_R0&list=LLsA2r2t7zwJW8IgmayiGjow
+  * https://medium.com/@thomasoropeza/creating-a-rest-api-server-with-swagger-f90cdb84f270#:~:text=Creating%20the%20Swagger%20Specification,your%20specification%20in%20Swagger's%20editor.
+  * https://editor.swagger.io/
